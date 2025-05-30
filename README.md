@@ -108,6 +108,7 @@
 - 《STL源码剖析》:[SGI STL源码](https://github.com/steveLauwh/SGI-STL)
 - 《C++沉思录》
 - **《inside the c++ object model》**：中文版是《深度探索C++对象模型 PDF中文清晰版》
+- C++并发编程：英文版C++ Concurrency in Action；中文版：C++ Concurrency in Action-中文版
 
 #### 11. 其他
 - 《黑客与画家》
@@ -139,3 +140,12 @@
 ##### 2.3 光照
 
 - [UE4 内容示例01-Welcom_体积_灯光](https://www.bilibili.com/video/av60913326)
+
+
+
+
+
+#### 3. 开源项目
+
+- **[tinyrenderer](https://github.com/ssloy/tinyrenderer)**：C++代码实现的简短的渲染器（500行代码）
+- **[SoftGLRender](https://github.com/keith2018/SoftGLRender)**：C++实现的软光栅渲染器
